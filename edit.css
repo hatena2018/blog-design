@@ -1,4 +1,8 @@
 /* google adsense */
+.adsbygoogle ins {
+    margin-bottom: 3em;
+}
+
 .ads-title {
     color: gray;
     font-size: 80%;
