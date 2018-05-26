@@ -1,6 +1,6 @@
 /* google adsense */
-ins {
-    margin-bottom: 3em;
+ins { /* insを使っているのはアドセンスだけ（たぶん） */
+    margin-bottom: 2em;
 }
 
 .ads-title {
@@ -8,7 +8,7 @@ ins {
     font-size: 80%;
 }
 
+/* ページ下部 */
 #bottom-editarea {
     margin: 1em;
-    margin-bottom: 3em;
 }
