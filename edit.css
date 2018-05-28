@@ -1,10 +1,10 @@
 /* 個別記事内のテキストリンク */
-.entry-content a {
+div.entry-content a {
   color: #0044CC;
   text-decoration: none;
 }
 
-.entry-content a:hover {
+div.entry-content a:hover {
   color: #444;
   text-decoration: underline;
 }
