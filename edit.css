@@ -1,11 +1,11 @@
 /* 個別記事内のテキストリンク */
 div.entry-content a {
-  color: #0044CC;
+  color: #0044CC;  /* 落ち着いた青色 */
   text-decoration: none;
 }
 
 div.entry-content a:hover {
-  color: #444;
+  color: #0044CC;
   text-decoration: underline;
 }
 
