@@ -1,0 +1,31 @@
+a:hover {
+  color: deeppink;
+}
+#blog-title h1 a:hover {
+  color: deeppink;
+}
+#top-box .breadcrumb a:hover {
+  color: deeppink
+}
+.categories a:hover {
+  border-bottom: 2px solid deeppink
+}
+.entry .entry-category a:hover {
+  border: 1px solid deeppink
+}
+.pager a:hover {
+  color: deeppink
+}
+a.keyword:hover {
+  border-color: deeppink
+}
+.leave-comment-title:hover {
+  color: deeppink
+}
+.leave-comment-title:hover:before {
+  color: deeppink;
+  content: '\f075'
+}
+#footer a:hover {
+  color: deeppink;
+}
