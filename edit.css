@@ -58,7 +58,7 @@ a.keyword:hover {
 }
 
 /* カエレバ */
-.kaerebalink-box {
+div.kaerebalink-box {
   border: 1px solid grey; 
   box-sizing: border-box;
 }
