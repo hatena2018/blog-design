@@ -58,8 +58,9 @@ a.keyword:hover {
 }
 
 /* カエレバ */
-div.kaerebalink-box {
-  background-color: #fafafa; /* 全体の背景カラー */
+kaerebalink-box {
+  border: 1px solid grey; 
+  box-sizing: border-box;
 }
 /* ------------------------------------------------- */
 
