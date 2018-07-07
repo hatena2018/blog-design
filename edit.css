@@ -56,5 +56,10 @@ a.keyword:hover {
 #footer a:hover {
   color: deeppink;
 }
+
+/* カエレバ */
+.kaerebalink-box {
+  background-color: #fafafa; /* 全体の背景カラー */
+}
 /* ------------------------------------------------- */
 
